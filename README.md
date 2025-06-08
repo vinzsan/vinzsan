@@ -1,5 +1,5 @@
 <h2 align="center">🌸 Vin's GitHub Config 🌸</h2>
-<h2 align="center">mini femboys -w-</h2>
+<h2 align="center">tiny femboys -w-</h2>
 <h3 align="center">gym for my thigs >:3</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there~+I'm+Vin!;+C+lover+with+a+bit+of+pink+code~+🩷;I+build+lowlevel+tools+and+write+bare-metal+stuff!">
