@@ -24,10 +24,7 @@
 
 ---
 
-### 💌 Currently Learning
-- 🧵 Forth, Zig, Nim (because low-level ≠ boring)
-- 📱 Building tiny `.apk` from C (yes, native!)
-- 🧪 Writing my own libc-like toolkit from scratch
+## Still Learn!
 
 ---
 
