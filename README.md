@@ -1,9 +1,11 @@
 <h2 align="center">🌸 Vin's GitHub Config 🌸</h2>
-<h2 align="center">tiny femboys -w-</h2>
-<h3 align="center">gym for my thigs >:3</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there~+I'm+Vin!;+C+lover+with+a+bit+of+pink+code~+🩷;I+build+lowlevel+tools+and+write+bare-metal+stuff!">
 </p>
+
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
@@ -18,7 +20,7 @@
 ### 🛠️ Tech Skill Overview
 | Language      | Experience % | Description |
 |---------------|--------------|-------------|
-| 🧠 C          | **50%**       | My main playground — from system calls to embedded apps. |
+| 🧠 C          | **70%**       | My main playground — from system calls to embedded apps. |
 | ⚙️ Assembly   | **50%**       | Mostly x86 (32-bit & 64-bit), writing syscalls and boot code. |
 | 💻 C++        | **10%**       | Used in certain structured projects (Raylib, OOP-style logic). |
 
