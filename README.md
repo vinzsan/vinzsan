@@ -1,4 +1,4 @@
-<h2 align="center">🌸 Vinsan 🌸</h2>
+<h2 align="center">🌸 Vinzsan 🌸</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there~+I'm+Vin!;+C+lover+with+a+bit+of+pink+code~+🩷;I+build+lowlevel+tools+and+write+bare-metal+stuff!">
 </p>
