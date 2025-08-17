@@ -1,5 +1,4 @@
-<h2 align="center">🌸 Vin's GitHub Config 🌸</h2>
-<h2 align="center">Gym for thigs</h2>
+<h2 align="center">🌸 Vinsan 🌸</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there~+I'm+Vin!;+C+lover+with+a+bit+of+pink+code~+🩷;I+build+lowlevel+tools+and+write+bare-metal+stuff!">
 </p>
@@ -17,14 +16,7 @@
 - 🎀 Occasionally I sprinkle some aesthetics into my code. Who says low-level can't be a little cute? >w<
 
 ---
-
-### 🛠️ Tech Skill Overview
-| Language      | Experience % | Description |
-|---------------|--------------|-------------|
-| 🧠 C          | **70%**       | My main playground — from system calls to embedded apps. |
-| ⚙️ Assembly   | **50%**       | Mostly x86 (32-bit & 64-bit), writing syscalls and boot code. |
-| 💻 C++        | **10%**       | Used in certain structured projects (Raylib, OOP-style logic). |
-
+## C/ASM not bad.
 ---
 
 ## Still Learn!
