@@ -1,4 +1,4 @@
-<h2 align="center">🌸 Vinzsan 🌸</h2>
+<h2 align="center">Vinzsan</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there~+I'm+Vin!;+C+lover+with+a+bit+of+pink+code~+🩷;I+build+lowlevel+tools+and+write+bare-metal+stuff!">
 </p>
@@ -8,22 +8,11 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
+- High school student, deeply in love with **C**, **assembly**, and **low-level systems**.
+- I make simple tools using **syscalls**, sometimes without any libc.
+- Currently experimenting with **barebone networking**, **direct I/O**, and **game rendering** using **Raylib** or **SDL**.
 
-### 💫 About Me
-- 🧠 High school student, deeply in love with **C**, **assembly**, and **low-level systems**.
-- 🔧 I make simple tools using **syscalls**, sometimes without any libc.
-- 🌐 Currently experimenting with **barebone networking**, **direct I/O**, and **game rendering** using **Raylib** or **SDL**.
-- 🎀 Occasionally I sprinkle some aesthetics into my code. Who says low-level can't be a little cute? >w<
-
----
-## C/ASM not bad.
----
-
-## Still Learn!
-
----
-
-### 🌷 Favorite Syntax -w-
+### msyntax -w-
 ```c
 int main() {
       char *str = "UwU~";
