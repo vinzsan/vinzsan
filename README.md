@@ -7,25 +7,4 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
----
-- High school student, deeply in love with **C**, **assembly**, and **low-level systems**.
-- I make simple tools using **syscalls**, sometimes without any libc.
-- Currently experimenting with **barebone networking**, **direct I/O**, and **game rendering** using **Raylib** or **SDL**.
-
-### msyntax -w-
-```c
-int main() {
-      char *str = "UwU~";
-      unsigned long length = 5;
-     __asm__ __volatile__(
-		       "movq $1,%%rax\n\t"
-		       "movq $1,%%rdi\n\t"
-		       "movq %0,%%rsi\n\t"
-		       "movq %1,%%rdx\n\t"
-		       "syscall"
-		       :
-		       :"r"(str),"r"(length)
-		       :"rax","rdi","rsi","rdx"
-		);
-    return 0;
-}
+Just a looser.. dont have any life and bad in academic,i hope i die faster.my bad for all.
