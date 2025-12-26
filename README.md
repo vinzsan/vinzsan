@@ -11,4 +11,4 @@
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/112ca7d0-8098-4ad6-b412-782602b2c586" />
 </p>
 
-Just a looser.. dont have any life and bad in academic,i hope i die faster.my bad for all.
+My husband 
