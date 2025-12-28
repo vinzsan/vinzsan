@@ -12,5 +12,5 @@
 <br>
 <p align="center">
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/112ca7d0-8098-4ad6-b412-782602b2c586" />
-  <p>My husband.</p>
+  <!-- <p>My husband.</p> -->
 </p>
